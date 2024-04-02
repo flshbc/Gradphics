@@ -1,5 +1,5 @@
 # Gradphics
-Coursework of Computer Graphics.
+Coursework of Computer Graphics
 
 ***
 
