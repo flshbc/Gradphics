@@ -1,9 +1,4 @@
-<style>
-img{
-    width: 60%;
-    padding-left: 20%;
-}
-</style>
+
 
 # hand-graphics
 
