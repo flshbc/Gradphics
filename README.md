@@ -6,7 +6,7 @@ Coursework of Computer Graphics
 
 1. hand-graphics 
 
-2. *tbd*
+2. hand-camera
 
 3. *tbd*
 
