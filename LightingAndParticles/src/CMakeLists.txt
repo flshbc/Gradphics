@@ -1,0 +1,29 @@
+add_executable(Hand
+        gl_env.h
+        main.cpp
+        skeletal_mesh.h
+        texture_image.h
+        camera.h
+        camera.cpp
+        camera_transition.h
+        camera_transition.cpp
+        move_system.h
+        move_system.cpp
+        light_source.h
+        light_source.cpp
+        phong_shader.h
+        particle.h
+        particle.cpp
+        particle_generator.h
+        particle_generator.cpp
+        particle_shader.h
+        )
+
+target_link_libraries(Hand PRIVATE assimp::assimp glew_s glm stb glfw)
+target_include_directories(Hand PRIVATE
+        ../third_party/glew/include
+        ${CMAKE_CURRENT_BINARY_DIR})
+
+target_compile_features(Hand PRIVATE cxx_std_11)
+
+configure_file(config.h.in ${CMAKE_CURRENT_BINARY_DIR}/config.h)
