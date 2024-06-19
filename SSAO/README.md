@@ -29,7 +29,7 @@
 
 `Toggle: Q`
 
-Check out our SSAO performance comparison on more models in [../images](images folder). 
+Check out our SSAO performance comparison on more models in [images folder](../images). 
 
-![img4](../images/desk-off.png )
+![img4](../images/desk-off.png)
 ![img5](../images/desk-on.png)
