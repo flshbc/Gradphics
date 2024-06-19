@@ -20,7 +20,7 @@ Coursework of Computer Graphics
 
 ---
 
-References
+**References**
 
 > [1] [learnopengl.com/Advanced Lighting/SSAO](https://learnopengl.com/Advanced-Lighting/SSAO)
 >
