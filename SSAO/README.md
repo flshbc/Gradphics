@@ -29,6 +29,8 @@
 
 `Toggle: Q`
 
+---
+
 Check out our SSAO performance comparison on more models in [images folder](../images). 
 
 ![img4](../images/desk-off.png)
