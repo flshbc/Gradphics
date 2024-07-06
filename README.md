@@ -1,24 +1,24 @@
 # Gradphics
 
-Coursework of Computer Graphics
 
 
 **Assignments**
 
-1. [Pipeline](Pipeline)
+1. [Pipeline](https://github.com/Flashbac09/Gradphics/tree/main/Pipeline#readme)
    
-2. [View Space](ViewSpace)
+2. [View Space](https://github.com/Flashbac09/Gradphics/tree/main/ViewSpace#readme)
 
-3. [Lighting & Particles](LightingAndParticles)
+3. [Lighting & Particles](https://github.com/Flashbac09/Gradphics/tree/main/LightingAndParticles#readme)
 
-4. [Texture](Texture)
+4. [Texture](https://github.com/Flashbac09/Gradphics/tree/main/Texture#readme)
 
 **Term Project**
 
-- [**SSAO**](SSAO) exploration & its OpenGL implementation 
+- [**SSAO**](https://github.com/Flashbac09/Gradphics/tree/main/SSAO#readme) exploration & its OpenGL implementation 
   
 
----
+===
+
 
 **References**
 
