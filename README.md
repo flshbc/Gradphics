@@ -17,7 +17,7 @@
 - [**SSAO**](https://github.com/Flashbac09/Gradphics/tree/main/SSAO#readme) exploration & its OpenGL implementation 
   
 
-===
+---
 
 
 **References**
